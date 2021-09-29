@@ -1,1 +1,2 @@
-# hi-mango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
